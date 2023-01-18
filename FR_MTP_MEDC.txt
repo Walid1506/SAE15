@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:45:54</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0174</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:45:54</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0174</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:50:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:50:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:50:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:50:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:50:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:50:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:50:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:50:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:50:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:50:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:50:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:50:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:55:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:55:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:55:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0172</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:00:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0169</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:05:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0166</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:05:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0166</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:05:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0166</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:45:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0152</Free>
+	<Total>0255</Total>
+</park>

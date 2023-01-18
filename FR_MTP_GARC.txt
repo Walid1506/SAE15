@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:43:49</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:43:49</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:48:53</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:48:53</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:48:53</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:48:53</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:48:53</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:48:53</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:48:53</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:48:53</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:53:56</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:53:56</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:53:56</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:53:56</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:53:56</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:53:56</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:53:56</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T08:58:59</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:03:52</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:03:52</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:08:55</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:43:58</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:43:58</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0395</Total>
+</park>
