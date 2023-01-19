@@ -187,3 +187,2838 @@
   <Total>1911</Total>
   <DisplayOpenIf>-1</DisplayOpenIf>
 </park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:01:03.852005600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1316</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:03:09.063848600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1304</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:05:14.323776300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1293</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:08:22.153831400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1275</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:10:27.415409900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1274</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:12:32.605849200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1262</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:15:40.416278200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1241</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:17:45.640840400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1232</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:19:50.876372400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1227</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:22:58.704612300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1203</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:25:03.895642400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1200</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:26:06.502733800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1198</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:26:06.502733800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1198</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:26:06.502733800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1198</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:27:09.122397700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1188</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:27:09.122397700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1188</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:27:09.122397700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1188</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:28:11.755016700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1188</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:28:11.755016700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1188</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:28:11.755016700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1188</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:29:14.380588500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1178</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:29:14.380588500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1178</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:29:14.380588500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1178</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:30:17.005205</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1177</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:30:17.005205</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1177</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:30:17.005205</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1177</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:31:19.587882700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1169</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:31:19.587882700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1169</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:31:19.587882700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1169</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:31:19.587882700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1169</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:32:22.599652900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1167</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:32:22.599652900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1167</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:32:22.599652900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1167</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:33:25.398077900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1170</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:33:25.398077900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1170</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:33:25.398077900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1170</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:34:29.637198100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1169</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:34:29.637198100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1169</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:34:29.637198100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1169</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:35:32.240351800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1158</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:35:32.240351800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1158</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:35:32.240351800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1158</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:36:34.878100400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1149</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:36:34.878100400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1149</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:36:34.878100400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1149</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:37:37.507331300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1141</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:37:37.507331300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1141</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:37:37.507331300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1141</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:38:40.123172900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1143</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:38:40.123172900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1143</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:38:40.123172900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1143</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:39:42.736517100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1141</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:39:42.736517100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1141</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:39:42.736517100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1141</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:40:45.316200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1136</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:40:45.316200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1136</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:40:45.316200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1136</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:41:47.914384500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1135</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:41:47.914384500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1135</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:44:55.692578200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1128</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:44:55.692578200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1128</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:45:58.315293400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1130</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:45:58.315293400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1130</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:45:58.315293400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1130</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:45:58.315293400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1130</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:47:00.910065900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1125</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:47:00.910065900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1125</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:48:03.521418500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1120</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:48:03.521418500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1120</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:48:03.521418500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1120</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:49:06.157578500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1126</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:49:06.157578500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1126</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:49:06.157578500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1126</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:49:06.157578500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1126</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T10:49:06.157578500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1126</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:15:11.649641500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1067</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:16:14.249120700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1065</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:16:14.249120700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1065</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:16:14.249120700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1065</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T11:17:16.870391300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1064</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:01:46.643849</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>995</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:01:46.643849</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>995</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:02:49.259438800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:02:49.259438800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:02:49.259438800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:03:51.864985800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:03:51.864985800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:03:51.864985800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:04:54.471563100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:04:54.471563100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:04:54.471563100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:05:57.081232800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>997</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:05:57.081232800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>997</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:05:57.081232800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>997</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:06:59.702333900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>998</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:06:59.702333900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>998</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:06:59.702333900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>998</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:08:02.309871700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1001</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:08:02.309871700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1001</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:08:02.309871700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1001</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:08:02.309871700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1001</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:08:02.309871700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1001</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:08:02.309871700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1001</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:08:02.309871700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1001</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:09:04.906426300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>999</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:09:04.906426300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>999</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:10:07.527318500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>999</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:10:07.527318500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>999</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:10:07.527318500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>999</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:11:10.128016500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1000</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:11:10.128016500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1000</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:11:10.128016500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1000</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:12:12.739730300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1000</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:12:12.739730300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1000</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:13:15.349256100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>995</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:13:15.349256100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>995</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:13:15.349256100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>995</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:14:17.964070100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>997</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:14:17.964070100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>997</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:15:20.580155800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>994</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:15:20.580155800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>994</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:15:20.580155800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>994</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:16:23.243311100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1000</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:16:23.243311100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1000</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:17:25.890936500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1006</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:17:25.890936500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1006</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:18:28.485307200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>990</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:20:33.802827100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>992</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:22:39.109918900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:22:39.109918900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:23:41.721657100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:23:41.721657100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>996</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:43:33.388951700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>966</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:43:33.388951700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>966</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:43:33.388951700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>966</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:44:36.073641100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>961</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:44:36.073641100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>961</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:44:36.073641100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>961</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:45:38.718925500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>960</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:45:38.718925500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>960</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:45:38.718925500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>960</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:46:41.351060100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>957</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:46:41.351060100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>957</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:47:44.018806700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>961</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:47:44.018806700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>961</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:47:44.018806700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>961</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:48:46.647675500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>963</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:48:46.647675500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>963</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:48:46.647675500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>963</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:49:49.324387700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>962</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:49:49.324387700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>962</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:50:52.002452700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>962</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:50:52.002452700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>962</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:50:52.002452700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>962</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:51:54.627235100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>956</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:51:54.627235100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>956</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:51:54.627235100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>956</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:52:57.236988700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>951</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:52:57.236988700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>951</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:52:57.236988700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>951</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:53:59.883543400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>947</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:53:59.883543400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>947</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:53:59.883543400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>947</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:55:02.555241400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>945</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:55:02.555241400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>945</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:55:02.555241400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>945</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:55:02.555241400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>945</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:56:05.222658400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>943</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:56:05.222658400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>943</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:56:05.222658400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>943</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:56:05.222658400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>943</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:57:07.881988500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>948</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:57:07.881988500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>948</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:58:10.543171900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>943</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:58:10.543171900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>943</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:59:13.201674800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>938</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:59:13.201674800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>938</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T14:59:13.201674800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>938</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:00:15.813287</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>934</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:00:15.813287</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>934</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:00:15.813287</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>934</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:01:18.444691500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>936</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:02:21.112384900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>941</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:02:21.112384900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>941</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:03:23.779806</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>938</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:03:23.779806</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>938</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:03:23.779806</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>938</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:04:26.449036600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>942</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:04:26.449036600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>942</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:06:31.816937400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>947</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:06:31.816937400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>947</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:06:31.816937400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>947</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:06:31.816937400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>947</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:06:31.816937400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>947</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:07:34.492928600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>941</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:07:34.492928600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>941</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:07:34.492928600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>941</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:08:37.242471600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>939</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:08:37.242471600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>939</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:08:37.242471600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>939</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:09:39.908886500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>940</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:09:39.908886500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>940</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:10:42.578339400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>937</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:10:42.578339400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>937</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:10:42.578339400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>937</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:11:45.237777400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>942</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:11:45.237777400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>942</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-18T15:11:45.237777400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>942</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:15:02.306743200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1608</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:15:02.306743200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1608</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:15:02.306743200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1608</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:16:04.917121100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1605</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:16:04.917121100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1605</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:16:04.917121100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1605</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:16:04.917121100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1605</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:16:04.917121100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1605</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:16:04.917121100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1605</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:16:04.917121100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1605</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:16:04.917121100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1605</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:16:04.917121100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1605</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:17:07.531135600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1599</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:17:07.531135600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1599</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:17:07.531135600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1599</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:17:07.531135600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1599</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:18:10.177549700</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1599</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:37:59.845844600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1551</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:37:59.845844600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1551</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:39:02.469827200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1548</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:39:02.469827200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1548</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:39:02.469827200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1548</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:39:02.469827200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1548</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:39:02.469827200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1548</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:40:05.088830400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1546</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:40:05.088830400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1546</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:41:07.739279200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1540</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:41:07.739279200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1540</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:41:07.739279200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1540</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:42:10.363848300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1535</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:42:10.363848300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1535</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:44:15.598130100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1532</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:44:15.598130100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1532</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:44:15.598130100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1532</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:44:15.598130100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1532</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:44:15.598130100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1532</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:45:18.205610800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1530</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:45:18.205610800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1530</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:45:18.205610800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1530</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:46:20.834490500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1529</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:46:20.834490500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1529</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:46:20.834490500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1529</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:47:23.458113400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1526</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:47:23.458113400</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1526</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:48:26.071790200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1523</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:48:26.071790200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1523</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:48:26.071790200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1523</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:49:28.666997100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1516</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:49:28.666997100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1516</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:49:28.666997100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1516</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:50:31.285754800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1516</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:50:31.285754800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1516</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:51:33.901519800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1513</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:51:33.901519800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1513</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:51:33.901519800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1513</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:53:39.187608500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1509</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:53:39.187608500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1509</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:53:39.187608500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1509</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:53:39.187608500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1509</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:53:39.187608500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1509</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:54:41.810599500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1503</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:54:41.810599500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1503</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:55:44.420784900</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1501</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:56:47.039854200</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1497</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:57:49.641937600</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1493</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:58:55.938694500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1495</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:58:55.938694500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1495</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:59:58.552268500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1489</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:59:58.552268500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1489</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T08:59:58.552268500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1489</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:01:01.177507</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1487</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:01:01.177507</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1487</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:03:06.416725800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1477</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:03:06.416725800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1477</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:03:06.416725800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1477</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:03:06.416725800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1477</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:03:06.416725800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1477</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:03:06.416725800</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1477</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:04:09.007263100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1481</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:04:09.007263100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1481</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:04:09.007263100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1481</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:05:11.611832100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1480</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:05:11.611832100</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1480</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:06:14.238941300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1473</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2023-01-19T09:06:14.238941300</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1473</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>

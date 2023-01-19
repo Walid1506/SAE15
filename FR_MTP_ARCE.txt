@@ -166,3 +166,2523 @@
 	<Free>0080</Free>
 	<Total>0230</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:59:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0073</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:02:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0069</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:02:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0069</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:05:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0068</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:08:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0069</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:11:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0069</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:11:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0069</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0065</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:17:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0064</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:20:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0061</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:23:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:23:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:23:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:23:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0059</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0060</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:41:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:41:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:41:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0052</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0052</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0052</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0052</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0052</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:17:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:17:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:17:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:17:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:17:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:17:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0052</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0052</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0052</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0052</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0052</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:59</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:59</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:59</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:59</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:59</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:49</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:49</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:49</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:49</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:49</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:49</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:49</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:49</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0058</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:17:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0052</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:17:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0052</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:20:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0050</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:20:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0050</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:20:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0050</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:20:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0050</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:41:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:41:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:41:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:41:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:41:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:41:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0056</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:56:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:56:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:56:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:56:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:56:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:56:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:56:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:02:49</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:02:49</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:02:49</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:02:49</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0051</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0055</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0053</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:11:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0116</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:11:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0116</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:11:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0116</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0110</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:17:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0106</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:35:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0090</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:35:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0090</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:35:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0090</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:35:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0090</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0089</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0089</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0089</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0089</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0089</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0089</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0089</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0089</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:41:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0088</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:41:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0088</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:41:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0088</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:41:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0088</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:41:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0088</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:41:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0088</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:41:53</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0088</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0083</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0083</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0083</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0083</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0083</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0083</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0083</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:58</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0083</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0080</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0080</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0080</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0080</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0080</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0080</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0080</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0080</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0078</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0078</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0078</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0078</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0078</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0078</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0078</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:57</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0078</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0078</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0078</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0078</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:51</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0078</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:56:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0077</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:56:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0077</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:56:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0077</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:56:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0077</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:56:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0077</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:56:56</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0077</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0072</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0072</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0072</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0072</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0072</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:50</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0072</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0070</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0070</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0070</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0070</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0070</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0070</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:54</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0070</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:05:59</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0068</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:05:59</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0068</Free>
+	<Total>0230</Total>
+</park>

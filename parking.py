@@ -15,7 +15,7 @@ def parking(parkings):
    
     return donnee.text
 
-print(parking('FR_MTP_ANTI'))
+#print(parking('FR_MTP_ANTI'))
 
 
 
@@ -28,7 +28,8 @@ while x!=2:
         f1.write(parking(i))
     #for i in range (x+1):
     
-        time.sleep(5)
+     #
+    time.sleep(2)
 
     #nom= parkings
 

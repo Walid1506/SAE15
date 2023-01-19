@@ -198,3 +198,2619 @@
 	<Free>0265</Free>
 	<Total>0570</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:59:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0252</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:59:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0252</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:59:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0252</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:04:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0251</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:04:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0251</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:09:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0245</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:09:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0245</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:14:49</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:14:49</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:19:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:19:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:24:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0219</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:24:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0219</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:24:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0219</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:24:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0219</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:24:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0219</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:24:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0219</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:24:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0219</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:24:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0219</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:24:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0219</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:24:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0219</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:24:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0219</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0212</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:34:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0204</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:39:54</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:39:54</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:39:54</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:39:54</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:39:54</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:39:54</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:39:54</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:39:54</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0200</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0193</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0193</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0186</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0186</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0186</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0186</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0186</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0186</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0186</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0186</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:19:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:24:50</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:24:50</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:24:50</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:24:50</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:24:50</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:24:50</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0188</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0147</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0147</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0147</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0147</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0147</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0147</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0147</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0147</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0147</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:04:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:09:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0154</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0154</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0154</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0154</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0154</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0154</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0154</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0154</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0154</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0154</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0154</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:19:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0151</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:19:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0151</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:19:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0151</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:19:57</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0151</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:24:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0149</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:39:50</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0140</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:39:50</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0140</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:39:50</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0140</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:39:50</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0140</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:58</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:49:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0145</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:54:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:04:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:09:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0138</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:09:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0138</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:09:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0138</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:09:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0138</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:09:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0138</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:09:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0138</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:09:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0138</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:09:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0138</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:09:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0138</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:09:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0138</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:09:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0306</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:34:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:34:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:34:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:34:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:34:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:39:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:39:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:39:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:39:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:39:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:39:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:39:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:39:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:39:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:39:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:39:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:39:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0303</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:53</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0302</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:49:51</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:54:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0295</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:54:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0295</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:54:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0295</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:54:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0295</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:54:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0295</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:54:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0295</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:54:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0295</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:54:59</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0295</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0292</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0292</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0292</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0292</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0292</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0292</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0292</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0292</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0292</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0292</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0292</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:04:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0290</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:04:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0290</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:04:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0290</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:04:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0290</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:04:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0290</Free>
+	<Total>0570</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:04:52</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0290</Free>
+	<Total>0570</Total>
+</park>

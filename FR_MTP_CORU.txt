@@ -198,3 +198,2627 @@
 	<Free>0285</Free>
 	<Total>0440</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:56:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0284</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T09:59:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0281</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:02:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0280</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:05:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0279</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:08:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0279</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:08:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0279</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:11:51</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0278</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:14:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0276</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:17:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0272</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:20:51</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0272</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:20:51</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0272</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:23:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0272</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:23:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0272</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:26:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:29:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:32:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:35:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:38:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:41:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:41:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:41:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0271</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T10:47:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0270</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0265</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:14:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0265</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0263</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0263</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0263</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0263</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0263</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0263</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0266</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0266</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0266</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0266</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0266</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0266</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0266</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0266</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:20:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0266</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:49</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0268</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:49</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0268</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:49</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0268</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:49</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0268</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:49</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0268</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:49</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0268</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:49</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0268</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:23:49</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0268</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:26:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0267</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:26:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0267</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:26:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0267</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T11:26:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0267</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T13:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:05:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0237</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0237</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0237</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0237</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0237</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0237</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0237</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0237</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0237</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0237</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0237</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:08:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0237</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:11:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:20:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:20:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:20:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:23:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:23:57</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:41:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0223</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:41:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0223</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:41:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0223</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:41:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0223</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:44:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:47:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:50:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:53:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:56:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:56:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:56:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:56:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:56:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T14:59:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:02:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:05:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:08:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:11:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:11:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:11:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-18T15:11:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:14:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:17:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0275</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:35:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0268</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:35:50</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0268</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0261</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0261</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0261</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0261</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0261</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0261</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0261</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:38:53</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0261</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:41:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0257</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:41:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0257</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:41:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0257</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:41:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0257</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:41:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0257</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0256</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0256</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0256</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0256</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0256</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0256</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0256</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:44:59</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0256</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0251</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0251</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0251</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0251</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0251</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0251</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0251</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0251</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0251</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:47:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0251</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0248</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0248</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0248</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0248</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:50:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0248</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0247</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0247</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0247</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0247</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0247</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0247</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0247</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0247</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:53:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0247</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:56:51</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0245</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:56:51</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0245</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:56:51</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0245</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:56:51</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0245</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0240</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0240</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0240</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0240</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T08:59:55</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0240</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:02:58</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0236</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:05:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:05:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:05:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:05:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:05:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:05:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:05:52</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0235</Free>
+	<Total>0440</Total>
+</park>
