@@ -15,29 +15,18 @@ def parking(parkings):
    
     return donnee.text
 
-#print(parking('FR_MTP_ANTI'))
 
-
-
+heure=0
 x=0
 while x!=2:
     for i in parkings:
-        nom=i+".txt"
+        nom=i
         print(parking(i))
-        f1=open(nom,"a", encoding='utf8')
+        f1=open(nom+str(x)+".txt","w", encoding='utf8')
         f1.write(parking(i))
-    #for i in range (x+1):
+       
     
-     #
-    time.sleep(2)
-
-    #nom= parkings
-
-    #tree = etree.parse(nom)
-        
-    #x = i+1
-#print('fin')
-
+    time.sleep(3600)
 
 
     
