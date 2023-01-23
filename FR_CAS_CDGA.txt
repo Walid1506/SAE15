@@ -2702,3 +2702,1995 @@
 	<Free>0231</Free>
 	<Total>0260</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:34:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:34:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:34:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:34:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:34:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:34:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:39:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:39:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:39:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:39:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:39:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:39:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:39:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:39:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:39:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:39:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:45:00</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:49:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:49:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:49:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:49:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:49:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:49:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:49:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:49:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:49:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:49:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:54:54</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:54:54</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:54:54</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:54:54</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:59:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:04:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:04:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:04:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:04:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:04:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:04:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:04:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:04:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:04:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:04:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:04:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:09:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:09:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:09:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:09:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:09:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:09:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:09:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:09:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:09:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:09:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:09:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:14:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:14:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:14:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:14:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:14:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:14:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:14:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:14:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:14:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:14:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:14:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:14:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:19:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:19:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:19:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:19:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:19:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:19:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:19:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:19:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:19:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:19:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:19:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:19:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:24:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:24:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:24:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:24:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:24:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:24:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:24:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:24:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:24:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:24:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:24:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:24:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:29:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:29:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:29:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:29:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:29:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:29:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:29:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:29:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:29:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:29:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:29:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:34:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:34:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:34:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:34:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:34:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:34:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:34:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:34:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:34:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:34:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:34:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:34:52</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:39:58</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:39:58</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:39:58</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:39:58</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T13:59:50</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T13:59:50</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T13:59:50</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T13:59:50</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:04:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:04:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:04:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:04:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:04:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:04:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:04:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:04:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:04:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:04:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:04:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:04:57</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:09:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:09:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:09:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:09:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:09:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:09:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:09:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:09:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:09:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:09:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:09:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:00</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:00</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:00</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:00</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:00</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:00</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:00</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:00</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:19:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:19:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:19:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:19:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:19:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:19:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:19:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:19:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:19:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:19:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:24:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:24:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:24:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:24:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:24:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:24:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:24:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:24:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:24:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:24:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:24:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:29:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:29:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:29:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:29:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:29:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:29:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:29:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:29:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:34:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:34:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:34:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:34:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:34:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:34:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:34:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:34:55</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:39:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:39:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:39:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:39:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:39:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:39:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:39:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:39:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:39:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:39:51</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:44:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0224</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:49:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:49:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:49:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:49:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:49:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:49:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:49:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:49:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:49:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:49:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:49:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:49:53</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:54:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:54:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:54:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:54:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:54:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:54:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:54:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:54:59</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0226</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:59:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:59:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:59:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:59:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:59:56</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0225</Free>
+	<Total>0260</Total>
+</park>

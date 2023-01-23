@@ -2726,3 +2726,2003 @@
 	<Free>0211</Free>
 	<Total>0255</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:35:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:35:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:35:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:35:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:35:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:35:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:40:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:40:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:40:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:40:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:40:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:40:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:40:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:40:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:40:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:40:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:45:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:45:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:45:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:45:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:45:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:50:54</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:50:54</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:50:54</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:50:54</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:50:54</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:50:54</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:55:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:55:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:55:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:55:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:55:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:55:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T09:55:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:00:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:00:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:00:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:00:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:00:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:00:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:00:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:00:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:00:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:00:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:00:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:00:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:05:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:05:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:05:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:05:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:05:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:05:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:05:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:05:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:05:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:05:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:05:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:05:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:10:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:10:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:10:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:10:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:10:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:10:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:10:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:10:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:10:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:10:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:15:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:15:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:15:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:15:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:15:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:15:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:15:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:15:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:15:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:15:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:15:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:15:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:20:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:30:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:30:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:30:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:30:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:30:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:30:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:30:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:30:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:30:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:30:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:30:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:35:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:35:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:35:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:35:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:35:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:35:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:35:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:35:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:35:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:35:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:35:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:35:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T10:40:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:00:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:00:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:00:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:00:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:00:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:00:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:00:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:05:51</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:05:51</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:05:51</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:05:51</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:05:51</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:05:51</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:05:51</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:05:51</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:05:51</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:05:51</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:05:51</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:10:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:10:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:10:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:10:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:10:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:10:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:10:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:10:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:10:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:10:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:10:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:15:53</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:20:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:20:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:20:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:20:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:20:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:20:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:20:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:20:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:20:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:20:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:20:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:20:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:25:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:25:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:25:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:25:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:25:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:25:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:25:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:25:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:25:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:25:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:25:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:25:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:30:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:30:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:30:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:30:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:30:50</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:35:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:35:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:35:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:35:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:35:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:35:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:35:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:35:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:35:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:35:56</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:40:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:40:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:40:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:40:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:40:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:40:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:40:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:40:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:40:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:40:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:40:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:45:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:45:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:45:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:45:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:45:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:45:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:45:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:45:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:45:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:45:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:45:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:45:58</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:50:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:50:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:50:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:50:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:50:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:50:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:50:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:50:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:50:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:50:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:50:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:50:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:55:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:55:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:55:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:55:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:55:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:55:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T14:55:52</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T15:00:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T15:00:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T15:00:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-19T15:00:59</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0255</Total>
+</park>

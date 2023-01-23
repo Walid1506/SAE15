@@ -38,37 +38,6 @@ while x!=2:
     #x = i+1
 #print('fin')
 
-"""
-    tree = etree.parse(nom)
-    for user in tree.xpath("Status"):
-        print('Info Parking :',user.text)
-
-    for name in tree.xpath("Name"):
-
-        pass
-
-    for total in tree.xpath("Total"):
-
-        pass
-
-    for user in tree.xpath("Free"): 
-
-        pass
-
-    for status in tree.xpath("Status"):
-
-        pass
-
-
-
-    f2.write(name.text+ status.text+ user.text+"\n")
-    f2.close()
-    return donnee.text
-
-
-
-
-"""
 
 
     
