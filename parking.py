@@ -22,7 +22,7 @@ while x!=2:
     for i in parkings:
         nom=i
         print(parking(i))
-        f1=open(nom+str(x)+".txt","w", encoding='utf8')
+        f1=open(nom+str(x)+".txt","a", encoding='utf8')
         f1.write(parking(i))
        
     
