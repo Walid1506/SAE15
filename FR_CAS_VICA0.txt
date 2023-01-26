@@ -166,3 +166,11 @@
 	<Free>0088</Free>
 	<Total>0088</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-26T14:52:50</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0073</Free>
+	<Total>0088</Total>
+</park>

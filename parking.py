@@ -25,7 +25,7 @@ while x!=2:
         f1.write(parking(i))
        
     
-    time.sleep(3600)
+    time.sleep(7200)
 
 
     

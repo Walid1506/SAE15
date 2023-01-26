@@ -166,3 +166,11 @@
 	<Free>0241</Free>
 	<Total>0290</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-26T14:54:53</DateTime>
+	<Name>SJLC</Name>
+	<Status>Open</Status>
+	<Free>0229</Free>
+	<Total>0290</Total>
+</park>

@@ -166,3 +166,11 @@
 	<Free>0242</Free>
 	<Total>0593</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-26T14:56:52</DateTime>
+	<Name>EURO</Name>
+	<Status>Open</Status>
+	<Free>0241</Free>
+	<Total>0593</Total>
+</park>

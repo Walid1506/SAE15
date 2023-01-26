@@ -208,3 +208,13 @@
 <DisplayOpenIf>100</DisplayOpenIf>
 <Reserve></Reserve>
 </park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-26T14:56:09.945</DateTime>
+<Name>Pitot</Name>
+<Status>Open</Status>
+<Free>283</Free>
+<Total>587</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>

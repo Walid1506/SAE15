@@ -166,3 +166,11 @@
 	<Free>0166</Free>
 	<Total>0260</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-26T14:54:50</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0163</Free>
+	<Total>0260</Total>
+</park>
