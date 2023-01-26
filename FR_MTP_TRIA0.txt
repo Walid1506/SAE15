@@ -1,9 +1,199 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <park>
-<DateTime>2023-01-24T13:47:09.955</DateTime>
+<DateTime>2023-01-24T21:20:10.066</DateTime>
 <Name>Triangle</Name>
 <Status>Open</Status>
-<Free>87</Free>
+<Free>254</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-24T22:20:10.039</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>267</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-24T23:20:10.079</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>283</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T04:15:10.088</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>298</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T05:15:09.983</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>297</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T06:15:09.145</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>297</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T07:16:10.022</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>298</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T08:16:10.140</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>279</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T09:16:09.919</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>211</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T10:16:09.848</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>162</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T11:17:09.991</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>145</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T12:17:09.993</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>116</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T13:17:09.140</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>115</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T14:17:10.081</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>109</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T15:18:10.084</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>124</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T16:18:09.148</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>144</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T17:18:09.979</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>159</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T18:18:09.999</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>184</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T19:18:09.969</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>213</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2023-01-25T20:19:09.961</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>238</Free>
 <Total>436</Total>
 <DisplayOpenIf>100</DisplayOpenIf>
 <Reserve></Reserve>

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-24T21:17:58</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0064</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-24T22:17:50</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0067</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-24T23:17:54</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0067</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T04:12:56</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0065</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T05:12:49</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0064</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T06:12:53</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0064</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T07:12:56</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0064</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T08:12:49</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0065</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T09:12:52</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0046</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T10:12:56</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0034</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T11:17:55</DateTime>
+	<Name>VICA</Name>
+	<Status>Full</Status>
+	<Free>0020</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T12:12:52</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0039</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T13:12:56</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0050</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T14:12:59</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0026</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T15:12:52</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0030</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T16:12:56</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0032</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T17:17:54</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0035</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T18:17:58</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0054</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T19:17:50</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0064</Free>
+	<Total>0088</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T20:17:54</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0063</Free>
+	<Total>0088</Total>
+</park>

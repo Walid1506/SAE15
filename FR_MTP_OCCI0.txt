@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-24T21:19:59</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0486</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-24T22:19:54</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0496</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-24T23:19:50</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0503</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T04:14:53</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0513</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T05:14:59</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0511</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T06:14:56</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0508</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T07:14:58</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0482</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T08:14:50</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0327</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T09:14:52</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0208</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T10:14:57</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0148</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T11:14:57</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0398</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T12:14:57</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T13:14:59</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T14:14:57</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0203</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T15:14:53</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0197</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T16:14:59</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0231</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T17:14:55</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0309</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T18:14:54</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0406</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T19:14:51</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0495</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T20:14:57</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0529</Free>
+	<Total>0627</Total>
+</park>

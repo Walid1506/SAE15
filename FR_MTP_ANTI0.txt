@@ -1,8 +1,160 @@
 <?xml version='1.0' encoding='UTF-8'?> 
 <park>
-	<DateTime>2023-01-24T13:44:53</DateTime>
+	<DateTime>2023-01-24T21:17:55</DateTime>
 	<Name>ANTI</Name>
 	<Status>Open</Status>
-	<Free>0135</Free>
+	<Free>0144</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-24T22:17:50</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0142</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-24T23:17:59</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0144</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T04:14:59</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0146</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T05:14:58</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0146</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T06:14:57</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0146</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T07:14:57</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0146</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T08:14:58</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T09:14:51</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0137</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T10:14:53</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0134</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T11:14:53</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0136</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T12:14:50</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0133</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T13:14:56</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0128</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T14:14:55</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0125</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T15:14:54</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0133</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T16:17:56</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0136</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T17:17:51</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0141</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T18:17:52</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0143</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T19:17:53</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0142</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-25T20:17:57</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0147</Free>
 	<Total>0239</Total>
 </park>
