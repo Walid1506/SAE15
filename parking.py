@@ -16,7 +16,6 @@ def parking(parkings):
     return donnee.text
 
 
-heure=0
 x=0
 while x!=2:
     for i in parkings:

@@ -158,3 +158,11 @@
 	<Free>0198</Free>
 	<Total>0255</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-26T11:25:57</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0098</Free>
+	<Total>0255</Total>
+</park>
