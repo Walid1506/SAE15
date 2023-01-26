@@ -174,3 +174,11 @@
 	<Free>0159</Free>
 	<Total>0440</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-26T15:23:54</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0174</Free>
+	<Total>0440</Total>
+</park>

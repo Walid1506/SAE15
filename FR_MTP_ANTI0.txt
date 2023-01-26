@@ -174,3 +174,11 @@
 	<Free>0125</Free>
 	<Total>0239</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-26T15:23:58</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0125</Free>
+	<Total>0239</Total>
+</park>

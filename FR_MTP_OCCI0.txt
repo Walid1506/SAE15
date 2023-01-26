@@ -174,3 +174,11 @@
 	<Free>0168</Free>
 	<Total>0627</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-26T15:24:50</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0185</Free>
+	<Total>0627</Total>
+</park>

@@ -6,3 +6,11 @@
 	<Free>0145</Free>
 	<Total>0570</Total>
 </park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2023-01-26T15:24:50</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0146</Free>
+	<Total>0570</Total>
+</park>
